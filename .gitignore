@@ -1,0 +1,5 @@
+# Ignore document and design files
+*.pdf
+*.afdesign
+*.ppt
+*.pptx
